@@ -1,5 +1,5 @@
 {
-  "name": "api-lolis",
+  "name": "api-akame",
   "version": "1.1.0",
   "description": "Nothing",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Caliph71/api-lolis.git"
+    "url": "git+https://github.com/brenomakerr/akame-base-api"
   },
   "keywords": [
     "simple",
@@ -20,7 +20,7 @@
   "author": "Caliph71",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Caliph71/meng-api/issues"
+    "url": "https://github.com/brenomakerr/akame-base-api"
   },
   "dependencies": {
     "cors": "^2.8.5",
@@ -30,5 +30,5 @@
     "ssl-express-www": "^3.0.7",
     "canvacord": "^5.1.0"
   },
-  "homepage": "https://github.com/Caliph71/meng-api#readme"
+  "homepage": "https://github.com/brenomakerr/akame-base-api"
 }
