@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brenomakerr/akame-base-api"
+    "url": "git+https://git.heroku.com/base-api-akame.git"
   },
   "keywords": [
     "simple",
